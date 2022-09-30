@@ -1,0 +1,15 @@
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\bin\Debug\net6.0\001_Aufgabe.exe
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\bin\Debug\net6.0\001_Aufgabe.deps.json
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\bin\Debug\net6.0\001_Aufgabe.runtimeconfig.json
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\bin\Debug\net6.0\001_Aufgabe.dll
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\bin\Debug\net6.0\001_Aufgabe.pdb
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.csproj.AssemblyReference.cache
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.AssemblyInfoInputs.cache
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.AssemblyInfo.cs
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.csproj.CoreCompileInputs.cache
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.dll
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\refint\001_Aufgabe.dll
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.pdb
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\001_Aufgabe.genruntimeconfig.cache
+C:\HTL\56AKIF\POS\001_Aufgabe\001_Aufgabe\obj\Debug\net6.0\ref\001_Aufgabe.dll
