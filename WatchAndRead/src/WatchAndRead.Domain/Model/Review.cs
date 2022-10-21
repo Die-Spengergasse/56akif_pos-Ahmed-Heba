@@ -12,14 +12,11 @@ namespace WatchAndRead.Domain.Model
 
         public string Title { get; set; } = string.Empty;
 
-        public int Starts { get; set; }
+        public int Stars { get; set; }
 
         public string Text { get; set; } = string.Empty;
 
-        public Serie SerieNavi { get; set; } = default;
+        public Medien Medien { get; set; } = default!;
 
-        public Book BookNavigation { get; set; } = default;
-
-        public Film FilmNavigation { get; set; } = default;
     }
 }

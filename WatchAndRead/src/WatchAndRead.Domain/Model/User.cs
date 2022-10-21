@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,9 +18,11 @@ namespace WatchAndRead.Domain.Model
 
         public DateTime BirthDate { get; set; }
 
-        public string Email { get; set; } = string.Empty;
+        //public string Email { get; set; } = string.Empty;
 
         //public Genders gender { get; set; }
+
+        //public string Rolle { get; set; }
     }
 }
-}
+

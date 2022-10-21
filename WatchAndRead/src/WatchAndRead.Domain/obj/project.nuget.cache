@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ST5IxwFALR2x4L7owl6Y+kfl+cmmuXwsY07QpnJZvGslLwPrKmZW4pOg2CVEODJLGldgb9c9G4Oj8dGWQoLngQ==",
+  "dgSpecHash": "EAyQtjLb0N7wr+QbGZCkoExf3Jg2oKgv4htqzvDsBuiaPmmAhotZG8hfT25Dpl3u85zB4cZOqkpMyeZTkp0kgA==",
   "success": true,
-  "projectFilePath": "C:\\HTL\\56AKIF\\POS\\WatchAndRead\\src\\WatchAndRead.Domain\\WatchAndRead.Domain.csproj",
+  "projectFilePath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\WatchAndRead\\src\\WatchAndRead.Domain\\WatchAndRead.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

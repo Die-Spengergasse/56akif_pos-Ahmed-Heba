@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace WatchAndRead.Domain.Model
 {
-    public class Book :Medien
+    public class Genre
     {
-        public int PageNumber  { get; set; }
+        public int Id { get; set; }
 
+        public string Name { get; set; } = string.Empty;
     }
 }
