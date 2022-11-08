@@ -26,7 +26,6 @@ namespace _002_Properties_Aufgabe
          
         }
 
-
         public decimal? Bruttogehalt 
         {
             get

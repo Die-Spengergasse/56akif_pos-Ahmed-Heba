@@ -1,0 +1,15 @@
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\bin\Debug\net6.0\002_Properties_Aufgabe.exe
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\bin\Debug\net6.0\002_Properties_Aufgabe.deps.json
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\bin\Debug\net6.0\002_Properties_Aufgabe.runtimeconfig.json
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\bin\Debug\net6.0\002_Properties_Aufgabe.dll
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\bin\Debug\net6.0\002_Properties_Aufgabe.pdb
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.csproj.AssemblyReference.cache
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.AssemblyInfoInputs.cache
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.AssemblyInfo.cs
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.csproj.CoreCompileInputs.cache
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.dll
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\refint\002_Properties_Aufgabe.dll
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.pdb
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\002_Properties_Aufgabe.genruntimeconfig.cache
+C:\HTL\56AKIF\POS\56akif_pos-Ahmed-Heba\002_Properties_Aufgabe\002_Properties_Aufgabe\obj\Debug\net6.0\ref\002_Properties_Aufgabe.dll

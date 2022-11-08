@@ -10,6 +10,7 @@ namespace _002_Properties_Aufgabe
     {
         private int _laenge;
         private int _breite;
+        //private string _rechteck;
 
         public int Laenge 
         {

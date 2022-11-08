@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\002_Properties_Aufgabe\\002_Properties_Aufgabe\\002_Properties_Aufgabe.csproj",
+      "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\002_Properties_Aufgabe\\002_Properties_Aufgabe\\002_Properties_Aufgabe.csproj",
       "projectName": "002_Properties_Aufgabe",
-      "projectPath": "C:\\HTL\\56AKIF\\POS\\002_Properties_Aufgabe\\002_Properties_Aufgabe\\002_Properties_Aufgabe.csproj",
+      "projectPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\002_Properties_Aufgabe\\002_Properties_Aufgabe\\002_Properties_Aufgabe.csproj",
       "packagesPath": "C:\\Users\\hebaa\\.nuget\\packages\\",
-      "outputPath": "C:\\HTL\\56AKIF\\POS\\002_Properties_Aufgabe\\002_Properties_Aufgabe\\obj\\",
+      "outputPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\002_Properties_Aufgabe\\002_Properties_Aufgabe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hebaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
