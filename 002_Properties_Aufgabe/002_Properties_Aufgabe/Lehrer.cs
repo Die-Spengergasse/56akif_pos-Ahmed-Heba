@@ -19,7 +19,7 @@ namespace _002_Properties_Aufgabe
             {
                 if (Zuname.Length >= 3)
                 {
-                    return Zuname?.Substring(0, 3)?.ToUpper() ?? "--";
+                    return Zuname?.Substring(0, 3).ToUpper() ?? "--";
                 }
                 return "--";
             } 

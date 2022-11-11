@@ -4,54 +4,6 @@ using Newtonsoft.Json;
 
 namespace ExCollection.App
 {
-    class Klasse
-    {
-        // TODO: Erstelle ein Property Schuelers, welches alle Schüler der Klasse in einer
-        //       Liste speichert.
-        public List<Schueler> Schuelers { get; set; } = new();
-        public string Name { get; set; } = string.Empty;
-        public string KV { get; set; } = string.Empty;
-        /// <summary>
-        /// Fügt den Schüler zur Liste hinzu und setzt das Property KlasseNavigation
-        /// des Schülers korrekt auf die aktuelle Instanz.
-        /// </summary>
-        /// <param name="s"></param>
-        public void AddSchueler(Schueler s)
-        {
-            Schuelers.Add(s);
-            s.KlasseNavigation = this;
-        }
-    }
-    class Schueler
-    {
-        // TODO: Erstelle ein Proeprty KlasseNavigation vom Typ Klasse, welches auf
-        //       die Klasse des Schülers zeigt.
-        // Füge dann über das Proeprty die Zeile
-        // [JsonIgnore]
-        // ein, damit der JSON Serializer das Objekt ausgeben kann.
-
-        [JsonIgnore]
-
-        public Klasse KlasseNavigation { get; set; } = new();
-        public int Id { get; set; }
-        public string Zuname { get; set; } = string.Empty; 
-        public string Vorname { get; set; } = string.Empty;
-
-        /// <summary>
-        /// Ändert die Klassenzugehörigkeit, indem der Schüler
-        /// aus der alten Klasse, die in KlasseNavigation gespeichert ist, entfernt wird.
-        /// Danach wird der Schüler in die neue Klasse mit der korrekten Navigation eingefügt.
-        /// </summary>
-        /// <param name="k"></param>
-        public void ChangeKlasse(Klasse k)
-        {
-            KlasseNavigation.Schuelers.Remove(this);
-
-            k.Schuelers.Add(this);
-
-            KlasseNavigation = k;
-        }
-    }
 
     class Program
     {
@@ -61,12 +13,12 @@ namespace ExCollection.App
             klassen.Add("3AHIF", new Klasse() { Name = "3AHIF", KV = "KV1" });
             klassen.Add("3BHIF", new Klasse() { Name = "3BHIF", KV = "KV2" });
             klassen.Add("3CHIF", new Klasse() { Name = "3CHIF", KV = "KV3" });
-            klassen["3AHIF"].AddSchueler(new Schueler() { Id = 1001, Vorname = "VN1", Zuname = "ZN1" });
-            klassen["3AHIF"].AddSchueler(new Schueler() { Id = 1002, Vorname = "VN2", Zuname = "ZN2" });
-            klassen["3AHIF"].AddSchueler(new Schueler() { Id = 1003, Vorname = "VN3", Zuname = "ZN3" });
-            klassen["3BHIF"].AddSchueler(new Schueler() { Id = 1011, Vorname = "VN4", Zuname = "ZN4" });
-            klassen["3BHIF"].AddSchueler(new Schueler() { Id = 1012, Vorname = "VN5", Zuname = "ZN5" });
-            klassen["3BHIF"].AddSchueler(new Schueler() { Id = 1013, Vorname = "VN6", Zuname = "ZN6" });
+            klassen["3AHIF"].AddSchueler(new Schueler() { Id = 1001, Vorname = "VN1", Zuname = "ZN1", _maxStudiendauer = 5 });
+            klassen["3AHIF"].AddSchueler(new Schueler() { Id = 1002, Vorname = "VN2", Zuname = "ZN2", _maxStudiendauer = 2 });
+            klassen["3AHIF"].AddSchueler(new Schueler() { Id = 1003, Vorname = "VN3", Zuname = "ZN3", _maxStudiendauer = 3 });
+            klassen["3BHIF"].AddSchueler(new Schueler() { Id = 1011, Vorname = "VN4", Zuname = "ZN4", _maxStudiendauer = 1 });
+            klassen["3BHIF"].AddSchueler(new Schueler() { Id = 1012, Vorname = "VN5", Zuname = "ZN5", _maxStudiendauer = 7 });
+            klassen["3BHIF"].AddSchueler(new Schueler() { Id = 1013, Vorname = "VN6", Zuname = "ZN6", _maxStudiendauer = 2 });
 
             Schueler s = klassen["3AHIF"].Schuelers[0];
             Console.WriteLine($"s sitzt in der Klasse {s.KlasseNavigation.Name} mit dem KV {s.KlasseNavigation.KV}.");
@@ -78,6 +30,25 @@ namespace ExCollection.App
             Console.WriteLine("3BHIF nach ChangeKlasse:");
             Console.WriteLine(JsonConvert.SerializeObject(klassen["3BHIF"].Schuelers));
             Console.WriteLine($"s sitzt in der Klasse {s.KlasseNavigation.Name} mit dem KV {s.KlasseNavigation.KV}.");
+
+        }
+
+        private void KurzesteStudiendauer(Klasse k)
+        {
+            // 1. erste Dauer merken
+            // 2. Prüfung on die nächste Dauer kleiner oder größer ist.
+            // 2.1 Wenn größer: nichts zu tun ; zum nächsten Schüler gehen
+            // 2.2 Wenn kleiner: überschreiben wir den ersten Wert mit dem neuen Minimum
+
+            int minWert = 7;
+            foreach(Schueler item in k.Schuelers)
+            {
+                if (item.MaxStudiendauer < minWert)
+                {
+                    minWert = item.MaxStudiendauer;
+                }
+            }
+            //Console.WriteLine($"Minimal Studendauer in dieser {k?.Name ?? "unbekannte Klasse"} ist: {minWert}"
         }
     }
 }

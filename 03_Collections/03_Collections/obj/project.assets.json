@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\03_Collections\\03_Collections\\03_Collections.csproj",
+      "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\03_Collections\\03_Collections\\03_Collections.csproj",
       "projectName": "03_Collections",
-      "projectPath": "C:\\HTL\\56AKIF\\POS\\03_Collections\\03_Collections\\03_Collections.csproj",
+      "projectPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\03_Collections\\03_Collections\\03_Collections.csproj",
       "packagesPath": "C:\\Users\\hebaa\\.nuget\\packages\\",
-      "outputPath": "C:\\HTL\\56AKIF\\POS\\03_Collections\\03_Collections\\obj\\",
+      "outputPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\03_Collections\\03_Collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hebaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,7 +111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
