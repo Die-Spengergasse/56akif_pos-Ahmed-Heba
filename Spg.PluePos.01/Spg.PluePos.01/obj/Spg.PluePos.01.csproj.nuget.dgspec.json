@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HTL\\56AKIF\\POS\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {}
+    "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {}
   },
   "projects": {
-    "C:\\HTL\\56AKIF\\POS\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {
+    "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
+        "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
         "projectName": "Spg.PluePos.01",
-        "projectPath": "C:\\HTL\\56AKIF\\POS\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
+        "projectPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
         "packagesPath": "C:\\Users\\hebaa\\.nuget\\packages\\",
-        "outputPath": "C:\\HTL\\56AKIF\\POS\\Spg.PluePos.01\\Spg.PluePos.01\\obj\\",
+        "outputPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\Spg.PluePos.01\\Spg.PluePos.01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hebaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

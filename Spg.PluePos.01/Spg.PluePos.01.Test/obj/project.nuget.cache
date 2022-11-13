@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBNZLMlCFqJ9QmqV7lVY6hknX+Ysx3WU7+BiqLWKkAGOEb16nFoiZikqaHZYTZ2vBovkqJAvGaqqY0KqoijRcg==",
+  "dgSpecHash": "7RPLRTLO42qtTcqR84YY2raAJGEWd5haclWB1HJUT3OIfZJlHgYPrcdT2MtL4nCFMAQxyPLgciUXHgVOtcjIgg==",
   "success": true,
-  "projectFilePath": "C:\\HTL\\56AKIF\\POS\\Spg.PluePos.01\\Spg.PluePos.01.Test\\Spg.PluePos.01.Test.csproj",
+  "projectFilePath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-Ahmed-Heba\\Spg.PluePos.01\\Spg.PluePos.01.Test\\Spg.PluePos.01.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hebaa\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\hebaa\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
