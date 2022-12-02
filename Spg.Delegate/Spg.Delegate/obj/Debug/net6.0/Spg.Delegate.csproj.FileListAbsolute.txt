@@ -1,0 +1,15 @@
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\bin\Debug\net6.0\Spg.Delegate.exe
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\bin\Debug\net6.0\Spg.Delegate.deps.json
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\bin\Debug\net6.0\Spg.Delegate.runtimeconfig.json
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\bin\Debug\net6.0\Spg.Delegate.dll
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\bin\Debug\net6.0\Spg.Delegate.pdb
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.csproj.AssemblyReference.cache
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.AssemblyInfoInputs.cache
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.AssemblyInfo.cs
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.csproj.CoreCompileInputs.cache
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.dll
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\refint\Spg.Delegate.dll
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.pdb
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\Spg.Delegate.genruntimeconfig.cache
+C:\HTL\56AKIF\POS\Spg.Delegate\Spg.Delegate\obj\Debug\net6.0\ref\Spg.Delegate.dll
