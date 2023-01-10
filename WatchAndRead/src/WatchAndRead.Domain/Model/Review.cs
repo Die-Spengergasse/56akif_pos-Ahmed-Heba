@@ -16,7 +16,15 @@ namespace WatchAndRead.Domain.Model
 
         public string Text { get; set; } = string.Empty;
 
-        public Medien Medien { get; set; } = default!;
+        public Medien MedienNavigation { get; private set; } = default!;
+        public int MedienNavigationID { get; set; }
+        //braucht Navigation kein private Set?
 
+        public Review(int id, int stars, string text)
+        {
+            Id = id;
+            Stars = stars;
+            Text = text;
+        }
     }
 }

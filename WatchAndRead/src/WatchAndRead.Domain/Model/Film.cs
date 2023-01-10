@@ -9,5 +9,10 @@ namespace WatchAndRead.Domain.Model
     public class Film :Medien
     {   
         public int Minutes { get; set; }
+
+        public Film(int minutes) : base()
+        {
+            Minutes = minutes;
+        }
     }
 }

@@ -10,5 +10,9 @@ namespace WatchAndRead.Domain.Model
     {
         public int PageNumber  { get; set; }
 
+        public Book(int pageNumber) : base()
+        {
+            PageNumber = pageNumber;
+        }
     }
 }
